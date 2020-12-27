@@ -1,7 +1,5 @@
 # jupyternotebook template
 
-run the below command to start the notebook
-docker-compose up
+run `docker-compose up` command to start the notebook
 
-run the below command to stop the notebook
-docker-compose down
+run `docker-compose down` command to stop the notebook
